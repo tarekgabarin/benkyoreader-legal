@@ -69,9 +69,9 @@ twice.
 
 ## Where your data is kept, and for how long
 
-Synced data is stored in a PostgreSQL database hosted by Render in the
-United States (Oregon). We keep it until you delete it. There is no backup
-retention beyond what our hosting provider keeps for operational recovery.
+Synced data is stored on servers hosted by Render in the United States. We
+keep it until you delete it, and no longer; there is no separate archive
+beyond the backups our hosting provider keeps to recover from failures.
 
 Server logs contain the usual request records — timestamps, request
 identifiers, error details, and IP addresses recorded by our hosting
