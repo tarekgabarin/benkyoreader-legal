@@ -1,5 +1,5 @@
 ---
-title: Swirly Glasses
+title: Legal
 layout: default
 ---
 
