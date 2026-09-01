@@ -3,12 +3,12 @@ title: Privacy Policy
 layout: default
 ---
 
-# BenkyoReader — Privacy Policy
+# Swirly Glasses — Privacy Policy
 
 **Effective 1 September 2026.** Questions or requests about your data: use the support address on the app's
 App Store page.
 
-BenkyoReader is a Japanese reading tool. You photograph text, it reads the
+Swirly Glasses is a Japanese reading tool. You photograph text, it reads the
 text back to you with dictionary definitions, and you save words you want to
 remember. This policy describes exactly what leaves your device, when, and to
 whom. It was written from the app's source code, not from a template.
@@ -47,7 +47,7 @@ payment information, or any advertising identifier.
 
 ## Text and images sent to Google
 
-BenkyoReader uses two Google services. Neither receives your account
+Swirly Glasses uses two Google services. Neither receives your account
 identifier, your name, or your email, and we do not send them anything that
 identifies you. Google receives your device's IP address as part of any
 internet request, and Google's own privacy policy governs what it does with
@@ -91,7 +91,7 @@ scans without turning off scanning of that kind of page.
 
 ## Children
 
-BenkyoReader is not directed to children under 13, and we do not knowingly
+Swirly Glasses is not directed to children under 13, and we do not knowingly
 collect information from them.
 
 ## Changes

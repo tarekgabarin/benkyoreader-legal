@@ -1,10 +1,10 @@
 ---
-title: BenkyoReader
+title: Swirly Glasses
 layout: default
 ---
 
-# BenkyoReader
+# Swirly Glasses
 
-Legal pages for the BenkyoReader iOS app.
+Legal pages for the Swirly Glasses iOS app.
 
 - [Privacy Policy](privacy)
