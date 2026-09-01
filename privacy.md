@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+layout: default
 ---
 
 # BenkyoReader — Privacy Policy
