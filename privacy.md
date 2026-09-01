@@ -5,9 +5,8 @@ layout: default
 
 # BenkyoReader — Privacy Policy
 
-**Effective 1 September 2026.** Questions or requests about your data:
-open an issue at
-<https://github.com/tarekgabarin/benkyoreader-legal/issues>.
+**Effective 1 September 2026.** Questions or requests about your data: use the support address on the app's
+App Store page.
 
 BenkyoReader is a Japanese reading tool. You photograph text, it reads the
 text back to you with dictionary definitions, and you save words you want to
@@ -102,6 +101,5 @@ new version is published at this address before the change takes effect.
 
 ## Contact
 
-Questions, or a request about your data: open an issue at
-<https://github.com/tarekgabarin/benkyoreader-legal/issues>, or use the
-support address listed on the app's App Store page.
+Questions, or a request about your data: use the support address listed on
+the app's App Store page.
